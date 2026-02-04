@@ -1,0 +1,118 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+most common charts in cyber security
+
+
+Cybersecurity has its own “usual suspects” when it comes to charts — they’re all about threats, risk, time, and impact. Here are the most common charts you’ll see in SOCs, security reports, and exec decks 👇
+
+Threat & Incident Monitoring
+0. Time-Series Line Charts
+
+Used for: Security events over time
+Examples: Failed logins, malware detections, IDS alerts
+👉 Great for spotting spikes, attacks, and trends.
+
+1. Bar Charts
+
+Used for: Comparing categories
+Examples: Top attack types, most targeted assets, incidents by severity
+👉 Simple, readable, and heavily used in reports.
+
+2. Stacked Bar Charts
+
+Used for: Composition over time
+Examples: Alerts by severity per week, attack types per system
+👉 Helps show both volume and mix.
+
+Risk & Vulnerability Management
+3. Risk Matrix / Heat Map
+
+Used for: Likelihood vs. impact
+Examples: Vulnerability risk, third-party risk
+👉 One of the most exec-friendly visuals in security.
+
+4. Vulnerability Age Charts
+
+Used for: Time to remediate
+Examples: Open vulnerabilities by age bucket
+👉 Quickly exposes patching problems.
+
+5. CVSS Distribution Charts
+
+Used for: Severity breakdown
+Examples: Count of vulnerabilities by CVSS score
+👉 Common in vulnerability management dashboards.
+
+Incident Response & SOC Operations
+6. Incident Timeline Charts
+
+Used for: Attack progression and response
+Examples: Detection → containment → eradication → recovery
+👉 Critical for post-incident reviews.
+
+7. Mean Time Charts (MTTD / MTTR)
+
+Used for: Detection and response performance
+Examples: Average time to detect/respond over time
+👉 Core SOC KPIs.
+
+8. Queue / Backlog Charts
+
+Used for: Alert backlog and analyst workload
+👉 Helps prevent SOC burnout and missed alerts.
+
+Network & Attack Visualization
+9. Network Traffic Flow Charts
+
+Used for: East-west and north-south traffic
+Examples: Unusual data exfiltration patterns
+👉 Especially common in NDR tools.
+
+10. Geo Maps
+
+Used for: Source of attacks by country/region
+👉 Flashy and popular — but often more eye candy than insight 😅
+
+Compliance & Governance
+11. Control Coverage Charts
+
+Used for: Security control implementation
+Examples: Controls implemented vs. missing
+👉 Common in audits and compliance reviews.
+
+12. Compliance Status Dashboards
+
+Used for: Frameworks like ISO 27001, NIST, SOC 2
+👉 Often traffic-light (red/yellow/green) visuals.
+
+Executive & Board Reporting
+13. Security KPI Dashboards
+
+Common metrics:
+
+14. Incidents by severity
+
+15. Risk score trends
+
+16. Patch compliance
+
+17. MTTD / MTTR
+
+👉 Usually a combo of line charts, bars, and heat maps, not deep technical detail.
+
+Less Common but Powerful
+18. Attack Kill Chain Charts
+
+Used for: Mapping attacks to MITRE ATT&CK stages
+👉 Great for gap analysis and defense planning.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+If you want, tell me:
+
+SOC / Blue Team / GRC / Executive audience
+
+Operational monitoring or reporting
+
+Cloud, enterprise, or OT environment
+
+I’ll cut this down to the 5 charts that matter most for your role, not the entire SIEM zoo 🔐📊
