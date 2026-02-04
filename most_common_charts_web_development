@@ -1,0 +1,124 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+most common charts web development
+
+Web development dashboards tend to focus on performance, usage, reliability, and conversion. Here are the most common charts you’ll see in web dev, product, and ops tools 👇
+
+Performance & Core Web Vitals
+0. Time-Series Line Charts
+
+Used for: Trends over time
+Examples: Page load time, LCP, CLS, INP, TTFB
+👉 The bread-and-butter chart in web monitoring.
+
+1. Histogram / Distribution Charts
+
+Used for: Performance spread
+Examples: Load times across users
+👉 Shows whether most users are fast or just a few.
+
+2. Percentile Charts (P75 / P90 / P99)
+
+Used for: Worst-case performance
+Examples: 75th or 95th percentile load time
+👉 Critical for real-world UX.
+
+Traffic & Usage
+3. Line Charts
+
+Used for: Visitors over time
+Examples: Page views, sessions, active users
+👉 Instantly reveals growth, drops, or outages.
+
+4. Bar Charts
+
+Used for: Comparing pages or sources
+Examples: Top pages, traffic by referrer
+👉 Simple and effective.
+
+5. Stacked Area Charts
+
+Used for: Traffic composition over time
+Examples: Mobile vs desktop vs tablet
+👉 Great for platform mix changes.
+
+User Behavior & Conversion
+6. Funnel Charts
+
+Used for: Conversion paths
+Examples: Visit → signup → purchase
+👉 Exposes drop-off points.
+
+7. Heatmaps
+
+Used for: User interaction
+Examples: Clicks, scroll depth, cursor movement
+👉 Shows what users actually interact with.
+
+8. Session Flow / Sankey Diagrams
+
+Used for: Navigation paths
+Examples: How users move between pages
+👉 Useful, but easy to overcomplicate.
+
+Reliability & Errors
+9. Error Rate Charts
+
+Used for: Stability monitoring
+Examples: 4xx / 5xx errors over time
+👉 Spikes usually mean deploy problems.
+
+10. Uptime / Availability Charts
+
+Used for: SLA tracking
+👉 Especially important for production systems.
+
+Backend & Infrastructure (Often Shared with DevOps)
+11. Resource Usage Charts
+
+Used for: Server and service health
+Examples: CPU, memory, disk, network
+👉 Helps explain performance issues.
+
+12. Latency Breakdown Charts
+
+Used for: API vs DB vs frontend time
+👉 Pinpoints bottlenecks.
+
+Deployment & Dev Workflow
+13. Deployment Frequency Charts
+
+Used for: Release velocity
+👉 Common in DevOps / DORA metrics.
+
+14. Change Failure Rate Charts
+
+Used for: Release quality
+👉 Ties deploys to errors or rollbacks.
+
+Executive / Product Dashboards
+15. KPI Dashboards
+
+Common metrics:
+
+16. Page speed
+
+17. Conversion rate
+
+18. Bounce rate
+
+19. Error rate
+
+👉 Usually a mix of line charts, bars, funnels, and big-number tiles.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+If you want, tell me:
+
+Frontend, backend, or full-stack
+
+Product analytics vs performance monitoring
+
+Personal project or production app
+
+I’ll narrow this to the must-have charts for your setup, not the whole monitoring buffet 🌐📊
