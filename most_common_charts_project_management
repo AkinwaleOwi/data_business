@@ -1,0 +1,80 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Project management has its own “greatest hits” when it comes to charts. These show time, progress, resources, and risk—the stuff PMs live and breathe. Here are the most common ones 👇
+
+0. Gantt Chart
+
+What it shows: Tasks over time, dependencies, milestones
+Used for: Project planning, scheduling, tracking progress
+👉 The classic PM chart. If someone says “project chart,” this is usually it.
+
+1. Timeline / Milestone Chart
+
+What it shows: Key dates and milestones
+Used for: Executive updates, roadmaps
+👉 Cleaner and less detailed than a Gantt—great for stakeholders.
+
+2. Kanban Board
+
+What it shows: Work status (To Do → In Progress → Done)
+Used for: Agile and operational project tracking
+👉 Visual, flexible, and very popular with software teams.
+
+3. Burndown Chart
+
+What it shows: Work remaining vs. time
+Used for: Agile / Scrum sprints
+👉 Instantly tells you if the team is ahead or behind.
+
+4. Burnup Chart
+
+What it shows: Work completed vs. total scope
+Used for: Agile projects with changing scope
+👉 Better than burndown when scope creep is a thing (so… always).
+
+5. Resource Allocation Chart
+
+What it shows: Who is working on what and when
+Used for: Capacity planning, workload balancing
+👉 Helps prevent overallocation and burnout.
+
+6. RACI Matrix (chart/table)
+
+What it shows: Roles and responsibilities
+Used for: Clarifying ownership
+👉 Not flashy, but it saves projects from chaos.
+
+7. Critical Path Diagram
+
+What it shows: Longest sequence of dependent tasks
+Used for: Schedule risk analysis
+👉 Tells you what cannot slip without delaying the project.
+
+8. Risk Matrix / Heat Map
+
+What it shows: Risk probability vs. impact
+Used for: Risk management
+👉 Simple, visual, and exec-friendly.
+
+9. Status Dashboard
+
+What it shows: Overall health (schedule, cost, scope, risks)
+Used for: Steering committees, leadership updates
+👉 Usually a combo of charts + red/yellow/green indicators.
+
+10. Earned Value Charts (EVM)
+
+What they show: Planned vs. actual vs. earned value
+Used for: Cost & schedule performance
+👉 Common in large, regulated, or government projects.
+
+=====================================================================
+If you want, tell me:
+
+Agile or Waterfall?
+
+Team vs. exec audience?
+
+Planning or reporting?
+
+I’ll narrow this down to the 2–3 charts you actually need, not the whole zoo.
