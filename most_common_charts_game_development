@@ -1,0 +1,111 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Game dev uses a mix of production, design, tech, and live-ops charts—some look like classic project management, others are very game-specific. Here are the ones you’ll see most often 👇
+
+Production & Scheduling
+0. Gantt / Roadmap Chart
+
+Used for: Milestones, feature delivery, release planning
+👉 Vertical slices, alpha/beta, content drops—same PM DNA, different flavor.
+
+1. Sprint Burndown / Burnup
+
+Used for: Agile teams (especially engineering)
+👉 Tracks progress during sprints and feature pushes.
+
+2. Kanban Board
+
+Used for: Art, design, QA, and live-ops tasks
+👉 Great for assets flowing through concept → modeling → polish → done.
+
+Game Design & Balancing
+3. Progression Curves (Line Charts)
+
+Used for: XP curves, leveling speed, difficulty scaling
+👉 One of the most important charts in game design.
+
+4. Economy Flow Charts
+
+Used for: Currency sources & sinks
+👉 Helps prevent inflation, grind, or pay-to-win disasters.
+
+5.Damage / Power Curves
+
+Used for: Weapon balance, character scaling
+👉 Shows when something breaks the game at mid or late levels.
+
+6. Funnel Charts
+
+Used for: Player progression (tutorial → early game → endgame)
+👉 Highlights where players drop off.
+
+Analytics & Player Behavior
+7. Retention Curves
+
+Used for: D1 / D7 / D30 retention
+👉 Live-service teams obsess over these.
+
+8. Cohort Analysis Charts
+
+Used for: Comparing player groups over time
+👉 Essential for updates, events, and monetization tuning.
+
+9. Heatmaps
+
+Used for: Player movement, deaths, interactions
+👉 Level design gold—shows what players actually do.
+
+10. Session Length Distribution (Histogram)
+
+Used for: Engagement analysis
+👉 Tells you if sessions feel snackable or exhausting.
+
+Performance & Technical
+11. Frame Time / FPS Graphs
+
+Used for: Performance optimization
+👉 Spikes = stutters players will notice.
+
+12. Memory Usage Charts
+
+Used for: Console & mobile constraints
+👉 Very unglamorous, very critical.
+
+13. Load Time Charts
+
+Used for: UX and platform certification
+👉 Seconds matter more than you think.
+
+QA & Live Ops
+14. Bug Trend Charts
+
+Used for: Open vs. closed bugs over time
+👉 Shows whether QA is winning or drowning.
+
+15. Crash Rate Charts
+
+Used for: Stability tracking
+👉 One of the fastest ways to kill retention if ignored.
+
+16. Event Performance Dashboards
+
+Used for: Live events, seasons, battle passes
+👉 Combines revenue, engagement, and retention charts.
+
+Executive / Stakeholder Views
+17. KPI Dashboards
+
+Common metrics: DAU, MAU, ARPDAU, retention, revenue
+👉 Usually a combo of line charts, bars, and big-number tiles.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+If you want, tell me:
+
+Indie vs AAA
+
+Single-player vs live service
+
+Design, production, analytics, or tech focus
+
+I’ll narrow this down to the charts you actually need for your game, not the whole studio wall 📊🎮
